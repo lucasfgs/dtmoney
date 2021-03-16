@@ -13,6 +13,8 @@
 
 ![Interface](dtmoney.png)
 
+![Interface](dtmoney2.png)
+
 ## Install
 
 ```sh
